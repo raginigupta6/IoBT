@@ -44,3 +44,10 @@ Note that all tools and python libraries are already installed in the Virtual Ma
    Open http://localhost:3000 on browser to access Grafana dashboard.
 12. Initialize InfluxDB data source on Grafana Dashboard by providing InfluxDB's token, bucket and org credentials. Build dashboard and execute Flux queries on Grafana Editor.
 13. Run the Anomaly Detection algorithm from AnomalyDetection.py and report anomalies with their corresponding anomaly score and timestamp.
+
+
+Details of this work can be found at: 
+
+1. https://dl.acm.org/doi/abs/10.1145/3524053.3542742
+
+2. https://ieeexplore.ieee.org/abstract/document/9594944/
